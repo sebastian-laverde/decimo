@@ -1,4 +1,4 @@
-header{
+     header{
     width: 100%;
     height: 200px;
     display: grid;
@@ -19,5 +19,17 @@ header img{
     width: 150px;
 }
 .destacateConcept-div img{
+    width: 150px;
+}
+.culture-div img{
+    width: 150px;
+}
+.etica-div img{
+    width: 150px;
+}
+.quimica-div img {
+    width: 150px;
+}
+.filosofia-div img {
     width: 150px;
 }
